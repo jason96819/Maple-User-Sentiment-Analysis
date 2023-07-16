@@ -8,6 +8,6 @@
 
 파일 순서
 
-1. 넥슨_프로젝트_230711.ipynb, 넥슨_프로젝트_230711_2.ipynb
-2. python파일
-3. ipynb
+1. 23.07.11 : Colab 환경에서 BeautifulSoup를 활용한 웹 스크래핑 (완전 자동화)
+2. 23.07.12~15 : VSC 환경에서 Selenium을 활용한 웹 크롤링
+3. 23.07.16 : Colab 환경에서 BeautifulSoup를 활용한 웹 스크래핑 (부분 자동화)
