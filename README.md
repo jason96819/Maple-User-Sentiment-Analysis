@@ -1,8 +1,10 @@
 # Project_1
 
-넥슨 [인텔리전스랩스] 데이터 분석가 (UX/게임 경험 분석) (계약직) 지원을 위한 프로젝트입니다.
+이번 메이플 스토리 게임 6차 업데이트에 대한 유저들의 반응을 분석하고 확인하기위해 프로젝트 진행.
 
-공고 사이트 : https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20230124&currentPage=0
+유저들의 반응을 확인하기위한 메이플 최대 커뮤니티인 메이플 인벤의 자유게시판 게시물에서 반응 확인.
+
+메이플 인벤 자유게시판 : https://www.inven.co.kr/board/maple/5974
 
 프로젝트 기간 : 2023.07.11 ~ 진행중
 
