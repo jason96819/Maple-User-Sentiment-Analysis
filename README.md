@@ -1,4 +1,4 @@
-# Project_1
+# Maple User Sentiment Analysis
 
 이번 메이플 스토리 게임 6차 업데이트에 대한 유저들의 반응을 분석하고 확인하기위해 프로젝트 진행.
 
